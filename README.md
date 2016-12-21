@@ -59,7 +59,7 @@
 
 * [Manico](https://manico.im)，¥25，软件启动和切换工具，国内独立开发者 [图拉鼎](https://imtx.me) 所作，搞活动 ¥1 入手
 * [1Password 5 for Mac](https://agilebits.com)，$23.99，密码管理工具 Mac 版
-* [Unclutter](https://unclutterapp.com)，￥12，文件、笔记、剪贴板管理工具
+* [Unclutter](https://unclutterapp.com)，¥12，文件、笔记、剪贴板管理工具
 * [Alfred 3](https://www.alfredapp.com)，£17，提升效率必备神器
 * [Easy New File](https://itunes.apple.com/us/app/easy-new-file-new-file-here/id1162194131)，¥12，快速创建各类型文件
 * [HazeOver](https://hazeover.com)，¥12，高亮当前活动窗口，保持专注
@@ -133,7 +133,7 @@
 #### 效率
 
 * Surge，¥68，翻墙利器，68 买了 Surge，那感觉就像房价涨之前买了套房
-* MacID，￥25，指纹解锁 Mac
+* MacID，¥25，指纹解锁 Mac
 * Workflow，¥18，如果 iOS 没有这个软件，就像 Mac 没有 Alfred 一样悲惨
 * A.BIG.T，¥6，买了这个才知道 Surge 存在的意义
 * Launch Center Pro，¥30，软件启动器
@@ -179,7 +179,7 @@
 
 #### 社交
 
-* Tweetbot，￥30，Twitter 第三方客户端，好用得令人发指
+* Tweetbot，¥30，Twitter 第三方客户端，好用得令人发指
 
 #### 教育
 
