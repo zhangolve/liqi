@@ -194,6 +194,7 @@
 
 #### 游戏
 
+* Monument Valley，¥25，限免获得，美到极致
 * Mini Metro，¥30，活动优惠 ¥6 获得，不错的游戏
 
 ### Chrome 插件
