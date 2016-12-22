@@ -86,6 +86,7 @@
 * [MacID](https://macid.co)，免费，指纹解锁 Mac
 * [Marp](https://github.com/yhatt/marp)，免费，写 Markdown 的方式演示 PPT
 * [Near Lock](http://nearlock.me)，免费，根据距离用手机解锁 Mac，配合 MacID 使用
+* [RescueTime](https://www.rescuetime.com)，时间管理，统计时间消耗工具
 
 #### 写作
 
