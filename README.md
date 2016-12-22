@@ -16,6 +16,12 @@
 * [Bose SoundTouch 30 III](http://item.jd.com/3599670.html)，Bose 出品的蓝牙音箱，花了血本，不过真他妈好用
 * [Kindle Paperwhite 2](https://www.amazon.cn/gp/product/B00CWPIDHI)，Paperwhite 第二代，性价比高，看电子书利器，再加个官方真皮保护套，手感好到爆
 * [Rain Design mStand](https://www.amazon.cn/gp/product/B00KPCV84A)，rMBP 支架，和 rMBP 绝配，拯救肩颈利器
+* [Sony CP-R10 充电宝](https://item.jd.com/1860193.html)，10000 豪安刚刚好，关键是颜值高
+* [Philips HX6730 电动牙刷](https://item.jd.com/530150.html)，自从用了电动牙刷，口腔比之前好多了
+* [Philips S5090 电动剃须刀](https://item.jd.com/1752635.html)，每天一剃的节奏，完全离不开了，最赞的是清水清洗的功能
+* [Philips HD9316 电水壶](https://item.jd.com/729213.html)，煲水、保温一体化，颜值高，食品级不锈钢
+* [Philips GC2046 蒸汽电熨斗](https://item.jd.com/1184328.html)，解救衬衣党
+* [Philips HP8230 电吹风机](https://item.jd.com/928128.html)，吹风机够大，风也够大
 
 ## 软件篇
 
