@@ -9,6 +9,7 @@
 赠人玫瑰，手有余香。
 
 ## 硬件篇
+***
 
 * [iPhone 5s](http://www.apple.com/cn/iphone)，2014 年光棍节给自己买的生日礼物，64G 银色顶配，现在依然是主力机
 * [iPhone 7](http://www.apple.com/iphone-7)，256G 银色 4.7 寸顶配，用了一个星期，给亲人用了
@@ -18,13 +19,16 @@
 * [Rain Design mStand](https://www.amazon.cn/gp/product/B00KPCV84A)，rMBP 支架，和 rMBP 绝配，拯救肩颈利器
 
 ## 软件篇
+***
 
 ### 通用
+***
 
 * 翻墙服务保留，若想得知，请发邮件咨询
 * [印象笔记](https://www.yinxiang.com)，¥148/ 年，高级帐户，知识库
 
 ### macOS
+***
 
 #### 编辑器和 Terminal
 
@@ -34,6 +38,7 @@
 * [Sublime Text 3](https://www.sublimetext.com)，用了好几年了，轻量，好用，主题依然是 [Solarized Light](https://github.com/braver/Solarized)
 * [CotEditor](https://coteditor.com)，免费，文本编辑器
 * [Visual Studio Code](https://code.visualstudio.com)，免费，微软官方提供，阅读源码比较便捷
+* [GitHub Pages](https://pages.github.com)，程序员记录必备，博客静态生成器使用 [Jekyll](https://jekyllrb.com)，个人博客地址：[https://dbarobin.com](https://dbarobin.com)
 
 #### 系统相关
 
@@ -127,6 +132,7 @@
 * [Noizio](http://noiz.io)，免费，白噪音软件
 
 ### iOS
+***
 
 > iOS 软件太多，暂时只给出付费软件。非越狱 iOS 需要在 App Store 才能下载，故此处只给出 App 的名字，不再附链接。
 
@@ -190,6 +196,7 @@
 * Mini Metro，¥30，活动优惠 ¥6 获得，不错的游戏
 
 ### Chrome 插件
+***
 
 * [1Password](https://chrome.google.com/webstore/detail/1password-password-manage/aomjjhallfgjeglblehebfpbcfeobpgk)，密码管理神器
 * [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom)，过滤烦人的广告
@@ -213,6 +220,7 @@
 * [為什麼你們就是不能加個空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd)，自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白，强迫症专用
 
 ## 生活服务
+***
 
 * [虾米音乐](http://www.xiami.com)，¥98/年，虾米老用户，高品质音乐，不过曲库真头疼
 * [优酷会员](http://www.youku.com)，¥169/年，广告好讨厌，买了会员终于解决了
@@ -220,6 +228,7 @@
 * [亚马逊 Prime 会员](https://www.amazon.cn/gp/prime)，¥388/年, 海淘省心
 
 ## 写在最后
+***
 
 整理这份清单，真得很耗功夫。不过这样整理之后，顿时清爽了。回过头来看看 Wish List，更有购买的欲望。
 
