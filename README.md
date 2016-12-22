@@ -77,8 +77,8 @@
 #### 写作
 
 * [Zoommy](https://zoommyapp.com)，$3.99，图片管理工具，图片来源有 Unsplash 等等
-* [Day One for Mac](http://dayoneapp.com)，¥68，Day One 升级，又花费一次
-* [Day One 2 for Mac](http://dayoneapp.com)，¥128，写日记专用，颜值高
+* [Day One for Mac](http://dayoneapp.com)，¥68，写日记专用，颜值高
+* [Day One 2 for Mac](http://dayoneapp.com)，¥128，Day One 升级，又花费一次
 * [PDF Expert](https://pdfexpert.com)，$0，Parallels 促销所得，PDF 阅读器
 * [MWeb](http://www.mweb.im)，¥50，半价获得，个人认为是国人所作最好的 Markdown 编辑器
 * [Ulysses](https://ulyssesapp.com)，¥283，Mac 上最好的 Markdown 编辑器，无论颜值还是功能
@@ -166,8 +166,8 @@
 
 #### 写作
 
-* Day One for iOS，¥30，又是坑爹的升级
-* Day One 2 for iOS，¥30，Day One iOS 版，日记专用，颜值高
+* Day One for iOS，¥30，Day One iOS 版，日记专用，颜值高
+* Day One 2 for iOS，¥30，又是坑爹的升级
 * TextExpander，¥30，提升输入效率
 
 #### 生活
