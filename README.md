@@ -227,6 +227,8 @@
 * [优酷会员](http://www.youku.com)，¥169/年，广告好讨厌，买了会员终于解决了
 * [京东会员 Plus](http://plus.jd.com/index)，¥179/年，每个月 6 张免运费券，再加专属贵宾客服
 * [亚马逊 Prime 会员](https://www.amazon.cn/gp/prime)，¥388/年, 海淘省心
+* [Ohrfrieden 降噪隔音耳塞](https://detail.tmall.com/item.htm?id=21031463516)，看书、睡觉可以用用，隔音效果很棒
+* [花王蒸汽眼罩](https://item.taobao.com/item.htm?id=10428440431)，熬夜之后敷下眼睛，效果不错
 
 ## 写在最后
 
