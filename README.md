@@ -13,6 +13,7 @@
 * [iPhone 5s](http://www.apple.com/cn/iphone)，2014 年光棍节给自己买的生日礼物，64G 银色顶配，现在依然是主力机
 * [iPhone 7](http://www.apple.com/iphone-7)，256G 银色 4.7 寸顶配，用了一个星期，给亲人用了
 * [rMBP](http://www.apple.com/cn/macbook-pro/)，2015 年初的 Retina MackBook Pro，13.3 寸银色中配，用了 Mac 才知道 PC 有多难用
+* [Magic Mouse 1](http://www.apple.com/cn/shop/product/MLA02CH/A/magic-mouse-2)，苹果鼠标，买了用了半年就出 2 了，1 代还要用电池，坑爹
 * [Bose SoundTouch 30 III](http://item.jd.com/3599670.html)，Bose 出品的蓝牙音箱，花了血本，不过真他妈好用
 * [Kindle Paperwhite 2](https://www.amazon.cn/gp/product/B00CWPIDHI)，Paperwhite 第二代，性价比高，看电子书利器，再加个官方真皮保护套，手感好到爆
 * [Rain Design mStand](https://www.amazon.cn/gp/product/B00KPCV84A)，rMBP 支架，和 rMBP 绝配，拯救肩颈利器
