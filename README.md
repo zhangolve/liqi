@@ -235,6 +235,7 @@
 * [Ohrfrieden 降噪隔音耳塞](https://detail.tmall.com/item.htm?id=21031463516)，看书、睡觉可以用用，隔音效果很棒
 * [花王蒸汽眼罩](https://item.taobao.com/item.htm?id=10428440431)，熬夜之后敷下眼睛，效果不错
 * [道远亮眼睛 LED 落地灯](https://item.jd.com/2202225.html)，简约大气，光线很舒服
+* [理线器](https://item.taobao.com/item.htm?id=532908173613)，电线、网线、数据线收纳
 
 ## 写在最后
 
