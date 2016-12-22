@@ -22,6 +22,7 @@
 * [Philips HD9316 电水壶](https://item.jd.com/729213.html)，煲水、保温一体化，颜值高，食品级不锈钢
 * [Philips GC2046 蒸汽电熨斗](https://item.jd.com/1184328.html)，解救衬衣党
 * [Philips HP8230 电吹风机](https://item.jd.com/928128.html)，吹风机够大，风也够大
+* [UP AP-4S 手机支架](https://item.jd.com/2456954.html)，把手机立起来，酷酷的
 
 ## 软件篇
 
