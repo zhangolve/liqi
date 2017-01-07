@@ -26,6 +26,7 @@
 * [UP AP-4S 手机支架](https://item.jd.com/2456954.html)，把手机立起来，酷酷的
 * [Kingston DT SE9H 8GB U 盘](https://item.jd.com/690347.html)，用了近 3 年的 U 盘，小巧，实用，颜值高
 * [WD Elements 移动硬盘](https://item.jd.com/896813.html)，用了差不多 4 年的移动硬盘，没有坏过，之前还有一个西部数据 My Passport
+* [WD My Passport Ultra 移动硬盘](https://item.jd.com/1226253.html)，云盘不保，买一个 2T 的备用，后面打算做家庭 NAS
 * [BULL GN-U303U 迷你 USB 插座](https://item.jd.com/2601926.html)，再也不用担心没有带充电器，后面还买了一个扁平的型号，4 个 USB 接口，一个三线插座
 * [HiWiFi HC5861 智能无线路由器](https://item.jd.com/1386706.html)，上一个路由器是极贰，这款极叁还算满意，这个价位，只能暂时将就了
 
