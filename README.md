@@ -242,6 +242,7 @@
 * [理线器](https://item.taobao.com/item.htm?id=532908173613)，电线、网线、数据线收纳
 * [MUJI 轻便电脑手提包](http://www.muji.com.cn/cn/store/category/fashion/bag)，纯黑色，轻便到极致，刚好可以放下我的 13.3 寸 rMBP
 * [Incase ICON 13.3 寸 rMBP 内胆包](https://item.jd.com/10477499836.html)，买东西喜欢一步到位，不想再去花冤枉钱。这块黑色的内胆包再加上 MUJI 手提包，很般配，瑞士军刀背包留着备用
+* [哈他 TPE 瑜伽垫](https://item.jd.com/1891589.html)，TPE 材质的瑜伽垫，防滑，柔软，非常舒服，没有刺激味道，女朋友练瑜伽用，平时健身也有用到
 
 ## 写在最后
 
