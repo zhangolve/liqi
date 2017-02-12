@@ -12,7 +12,7 @@ my work,study and life.
 * [吉列手动剃须刀锋速3](https://item.jd.com/959960.html)，配合剃须膏，手动刮胡子也是一种享受了。
 * [罗马仕 充电宝](https://item.jd.com/1232039.html)，10000 豪安刚刚好，用了也两年多了吧。
 * New Balance 574 ，从14年开始穿，作为基本款还是很不错的。
-## 软件篇
+
 
 ### 通用
 
