@@ -47,7 +47,7 @@ my work,study and life.
 * Axure RP Pro 7.0，原型图绘制工具
 * 福昕阅读器，阅读PDF足矣
 * Dropbox，文件同步工具，已经很久不用国内云服务做文件同步了，信不过。
-
+* [gifcam](https://gifcam.en.softonic.com/) ，有了它录个屏幕gif很方便
 
 
 #### 音视频
