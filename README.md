@@ -30,7 +30,12 @@ my work,study and life.
 - [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) 有了它，前端代码洁癖们可以安心了。 
 - [Babel](https://packagecontrol.io/packages/Babel) 有了它，ES6的代码高亮也不愁了。
 - [markdown editing](https://packagecontrol.io/packages/MarkdownEditing) 没错，有了它，我就是在用st3编辑markdown。 
+- [Terminal](https://packagecontrol.io/packages/Terminal) 安装好之后，使用Ctrl+shift+T快捷键打开终端（Termial），配合cmder使用，进行git相关操作更爽啊。
+
+
 * [GitHub Pages](https://pages.github.com)，程序员记录必备，博客静态生成器使用 [Hexo](https://hexo.io)，个人博客地址：[http://hktkdy.com/](http://hktkdy.com/)
+
+
 
 #### 系统相关
 
@@ -43,6 +48,7 @@ my work,study and life.
 #### 效率
 
 * Xshell ，服务器命令行工具
+* cmder ,才发现的一款windows下代替原生cmd的工具，拥有集成git等多项功能。
 * WinSCP ，服务器文件可视化操作工具
 * Axure RP Pro 7.0，原型图绘制工具
 * 福昕阅读器，阅读PDF足矣
