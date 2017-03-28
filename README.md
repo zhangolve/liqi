@@ -33,7 +33,7 @@ my work,study and life.
 - [Terminal](https://packagecontrol.io/packages/Terminal) 安装好之后，使用Ctrl+shift+T快捷键打开终端（Termial），配合cmder使用，进行git相关操作更爽啊。
 
 
-* [GitHub Pages](https://pages.github.com)，程序员记录必备，博客静态生成器使用 [Hexo](https://hexo.io)，个人博客地址：[http://hktkdy.com/](http://hktkdy.com/)
+* [GitHub Pages](https://pages.github.com)，程序员记录必备，博客静态生成器使用 [Hexo](https://hexo.io)，个人博客地址：[http://hktkdy.com/](http://hktkdy.com/) ,顺便安利我自己写的Hexo 主题---[hexo-theme-olive](https://github.com/zhangolve/hexo-theme-olive) ，恩，我的博客就是用的这个主题。
 
 
 
@@ -94,6 +94,7 @@ my work,study and life.
 * [右键搜](https://chrome.google.com/webstore/detail/phlfmkfpmphogkomddckmggcfpmfchpn?utm_source=chrome-app-launcher-info-dialog) ，让你的右键更加个性化
 * [网页截图:注释&批注](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?utm_source=chrome-app-launcher-info-dialog) ,顾名思义
 
+* [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en) ，也是一个很好的开发工具，简单来说作用就是当没有本地服务器的时候，使用这个扩展程序模拟出来一个。
 
 ####  油猴脚本
 
