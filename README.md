@@ -79,7 +79,7 @@ my work,study and life.
 
 * [search-engine-filter](https://chrome.google.com/webstore/detail/search-engine-filter/clkhhmchimakdcfbdohhnkjlljkimmgi/related?hl=zh-CN)，搜索结果过滤，我自己写的东西当然要放到第一位说。
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-app-launcher-info-dialog)，过滤烦人的广告
-* [Advanced REST client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo)，Chrome 下接口数据调试
+
 * [IDM Integration Module](https://chrome.google.com/webstore/detail/idm-integration-module/najjnfjggjcgccjhnceibbckkegaedhi)，接管浏览器自带下载功能
 * [Evernote Web Clipper](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc)，印象笔记剪藏
 * [Infinity新标签页](https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg)，第三方新标签页，看了下，好几个同事也在用
@@ -95,6 +95,11 @@ my work,study and life.
 * [网页截图:注释&批注](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?utm_source=chrome-app-launcher-info-dialog) ,顾名思义
 
 * [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en) ，也是一个很好的开发工具，简单来说作用就是当没有本地服务器的时候，使用这个扩展程序模拟出来一个。
+
+* [Advanced REST client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo)，Chrome 下接口数据调试
+
+* [postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=zh-CN)  ，测试API的利器，相较于上面那个Advanced REST client 功能更加强大一些。
+
 
 ####  油猴脚本
 
